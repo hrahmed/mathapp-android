@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MathApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="simplemath_prompt">Choose an operation</string>
+
+    <string-array name="simplemath_arrays">
+        <item>add</item>
+        <item>subtract</item>
+        <item>multiply</item>
+        <item>divide</item>
+        <item>error</item>
+        <item>stall</item>
+        <item>crash</item>
+    </string-array>
+</resources>
